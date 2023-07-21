@@ -7,8 +7,6 @@ public class Maven {
 		
 		System.out.println("Hello Maven");
 		
-		System.out.println("Hello Himansh");
-
 	}
 
 }
